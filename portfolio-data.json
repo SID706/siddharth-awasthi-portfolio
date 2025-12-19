@@ -1,0 +1,218 @@
+{
+  "settings": {
+    "name": "SIDDHARTH AWASTHI",
+    "title": "Software Engineer",
+    "location": "India",
+    "summary": "Full-stack Software Engineer skilled in Java, Python, JavaScript, React, Node.js, and MySQL, delivering scalable solutions.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:sid706706@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Python",
+          "Java",
+          "C/C++",
+          "HTML/CSS",
+          "JavaScript",
+          "MySQL",
+          "React",
+          "Node.js",
+          "Express.js",
+          "Flask",
+          "Flutter",
+          "MongoDB",
+          "Git",
+          "VSCode",
+          "IntelliJ",
+          "Android Studio",
+          "Azure",
+          "Arduino IDE",
+          "Pandas",
+          "OpenCV",
+          "NumPy",
+          "Matplotlib",
+          "Problem Solving",
+          "Leadership",
+          "Time Management",
+          "Teamwork"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Tejnet Broadband",
+          "position": "On-Site Network & Software Engineer",
+          "period": "Present",
+          "description": "Architected and built a custom Broadband Management System (full-stack web application) enabling plan tracking, customer management, renewal workflows, CRM features, and internal admin tools. Designed, Developed & maintains official website."
+        },
+        {
+          "company": "KPIT Technologies",
+          "position": "Intern (Software & Engineering Division)",
+          "period": "2024-2025",
+          "description": "Assisted in software development, debugging, and module testing under senior engineering guidance."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Broadband Management System",
+          "description": "Developed a system using Flutter, Firebase Auth, Firestore, Cloud Functions, and AI tools.",
+          "tags": [
+            "Flutter",
+            "Firebase",
+            "AI"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "License Plate Recognition",
+          "description": "Implemented a license plate recognition system using Python, Matplotlib, OpenCV, Pandas, CUDA, and Artificial Intelligence.",
+          "tags": [
+            "Python",
+            "OpenCV",
+            "AI"
+          ],
+          "previewUrl": "",
+          "repoUrl": "https://github.com/username/license-plate-recognition"
+        },
+        {
+          "title": "Decentralized Voting System",
+          "description": "Built a decentralized voting system with HTML/CSS, JavaScript, Solidity, Node.js, React.js, and Blockchain.",
+          "tags": [
+            "HTML/CSS",
+            "JavaScript",
+            "Solidity",
+            "Node.js",
+            "React.js",
+            "Blockchain"
+          ],
+          "previewUrl": "",
+          "repoUrl": "https://github.com/username/decentralized-voting-system"
+        },
+        {
+          "title": "Personal Finance Manager",
+          "description": "Created a personal finance manager using HTML/CSS, JavaScript, Node.js, React.js, MongoDB, and MySQL.",
+          "tags": [
+            "HTML/CSS",
+            "JavaScript",
+            "Node.js",
+            "React.js",
+            "MongoDB",
+            "MySQL"
+          ],
+          "previewUrl": "",
+          "repoUrl": "https://github.com/username/personal-finance-manager"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Chandigarh University",
+          "degree": "Bachelor's Degree in Computer Science & Engineering",
+          "period": "2021 - 2025"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Letter of Intent - KPIT Technologies",
+          "description": "Received a Letter of Intent from KPIT Technologies."
+        },
+        {
+          "title": "Blockchain Certification",
+          "description": "Certified in Blockchain."
+        },
+        {
+          "title": "Internet of Things Certification",
+          "description": "Certified in Internet of Things."
+        },
+        {
+          "title": "Web Development Certification",
+          "description": "Certified in Web Development."
+        },
+        {
+          "title": "Deep Learning and Reinforcement Learning-IBM Certification",
+          "description": "Certified in Deep Learning and Reinforcement Learning by IBM."
+        },
+        {
+          "title": "UX/UI Design-Meta Certification",
+          "description": "Certified in UX/UI Design by Meta."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "sid706706@gmail.com",
+      "phone": "+91 6396247997",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": []
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 SIDDHARTH AWASTHI. All rights reserved."
+  }
+}
